@@ -1,4 +1,4 @@
-@import url (style.css);
+@import url(style.css);
 
 .contato{
     background-color: var(--branco);
@@ -12,11 +12,11 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
 }
-.contato_titulo{
+.contato__titulo{
     font-size: 18px;
     font-weight: 500;
 }
-.container__texto{
+.contato__texto{
     font-weight: 300;
     margin: 1em 0;
 }.contato_email{
